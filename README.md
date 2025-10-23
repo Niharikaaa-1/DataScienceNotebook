@@ -44,11 +44,3 @@ It covers some of the most common languages, libraries, and tools used by data s
 | `1-notebook.png` to `11-authordetails.png` | Screenshots of each exercise |
 
 ---
-
-## 📝 How to View the Notebook
-
-You can view the notebook directly on GitHub or download it to open locally using **Jupyter Notebook** or **JupyterLite**.
-
-To open locally:
-```bash
-jupyter notebook DataScienceEcosystem.ipynb
